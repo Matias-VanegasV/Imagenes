@@ -1,0 +1,59 @@
+#p1 {
+  color: yellow;
+  font-size: 40px;
+  text-align: center;
+  background-color: red;
+  text-shadow: 10px 12px black;
+}
+
+#p2 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+  background-color: green;
+}
+
+#p3 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  background-color: orange;
+}
+
+#p4 {
+  color: yellow;
+  font-size: 20px;
+  text-align: center;
+  background-color: black;
+}
+
+#p5 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+  background-color: black;
+}
+
+#p6 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px white;
+}
+
+#p7 {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px black;
+}
+
+#titulo {
+  color: red;
+  font-size: 80px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px black;
+}
