@@ -1,0 +1,77 @@
+#imagen1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: sepia(250%);
+}
+
+#imagen2 {
+  display: block;
+  margin-left: auto;
+  filter: grayscale(50px);
+  filter: contrast(150%);
+}
+
+#imagen3 {
+  display: block;
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: brightness(100%);
+}
+
+#imagen4 {
+  display: block;
+  margin-left: auto(40px);
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: opacity(90%);
+}
+
+#imagen5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: hue-rotate(60deg);
+}
+
+#imagen6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: drop-shadow(5px 5px green);
+}
+
+#imagen7 {
+  display: block;
+  margin-left: auto(20px);
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(5px 5px red);
+}
+
+#imagen8 {
+  display: block;
+  margin-left: auto(12px);
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(5px 5px blue);
+}
+
+#imagen9 {
+  display: block;
+  margin-left: auto(7px);
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(5px 5px yellow);
+}
+
+#imagen10 {
+  display: block;
+  margin-left: auto(10px);
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(5px 5px orange);
+}
