@@ -1,0 +1,34 @@
+#imagen1 {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100px);
+  filter: hue-rotate(60deg);
+}
+
+h1 {
+  background-color: red;
+  font-size: 2.5rem;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80%) drop-shadow(2px 2px blue);
+  filter: grayscale(80%) drop-shadow(2px 2px green);
+}
+
+h3 {
+  background-color: blue;
+  font-size: 2rem;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#p {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+  background-color: purple;
+  text-shadow: 10px 12px yellow;
+}
